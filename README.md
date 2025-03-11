@@ -15,7 +15,6 @@ The primary goal of this project is to deepen my understanding of networking con
 ---
 
 ## 💡 Contribution
-💡 Contribution
 This project is my personal experimentation space, and I am not accepting contributions at this time. Thank you for your understanding.
 
 ---
